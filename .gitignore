@@ -1,0 +1,24 @@
+# Environment Variables - CRITICAL: Never commit these
+.env
+*.env
+.env.local
+.env.production
+
+# Database files
+*.db
+*.trace.db
+data/
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
