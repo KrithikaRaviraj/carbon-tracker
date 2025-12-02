@@ -58,7 +58,7 @@ JWT_SECRET=your-secure-jwt-secret-key
 
 ## License
 
-MIT License - see LICENSE file for details.
+MIT License
 
 ## Contributing
 
